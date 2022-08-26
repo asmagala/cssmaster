@@ -1,0 +1,8 @@
+form h1 {
+  color: hsl(231, 48%, 48%);
+}
+
+form > p {
+  font-size: 36px;
+  color: #c2185b;
+}
